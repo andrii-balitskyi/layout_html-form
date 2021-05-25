@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,6BACE,kBACF,CAEA,UACE,kBACF,CAEA,mBACE,UACF","file":"style.19378c37.css","sourceRoot":"../src","sourcesContent":[".form-field:not(:last-child) {\n  margin-bottom: 10px;\n}\n\n.fieldset {\n  margin-bottom: 20px;\n}\n\ninput[type=\"number\"] {\n  width: 36px;\n}\n"]}
